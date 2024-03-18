@@ -63,3 +63,11 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
+title: Cardiff University Architecture
+metadata: cu-buildings
+tagline: Exterior and interior photography of campus buildings throughout the ages
+description: "Exhibition of photographs of Cardiff University architecture and interiors"
+author: Huw Jones
+# organization-name: The School of History, Archaeology and Religion
+# organization-link: https://www.cardiff.ac.uk/history-archaeology-religion
+# organization-logo-banner: https://cushareejournal.files.wordpress.com/2019/08/cropped-with-uni-logo-white-background.png 
